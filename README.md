@@ -1,57 +1,63 @@
-# 🚀 Hello, I'm Abdullah Jan
-### **Electronics & Computing Student | Aspiring AI/ML Engineer**
-
-I bridge the gap between hardware and high-level intelligence. Currently focused on building efficient machine learning models and exploring the world of embedded AI.
-
-* 🔭 **Current Focus:** Deepening my knowledge in Neural Networks and Computer Vision.
-* ⚡ **Unique Edge:** Combining Electronics background with AI to build smart systems.
-* 🎨 **Design:** I use Adobe Illustrator to make my tech projects look as good as they function.
-* 📫 **Reach me at:** [jan924741@gmail.com](mailto:jan924741@gmail.com)
-
----
-
-## 🛠 Tech Stack & Tools
-
-### **Programming & Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### **Hardware & Design**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAN-tech404&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Overall Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAN-tech404&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="41%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ABDULLAH%20JAN&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Strategist&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JAN-tech404&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="90%" />
+  <a href="https://komarev.com/ghpvc/?username=JAN-tech404">
+    <img src="https://komarev.com/ghpvc/?username=JAN-tech404&label=Profile%20views&color=00FFFF&style=flat-square" alt="JAN-tech404's profile views" />
+  </a>
 </p>
 
----
+## 📌 About Me
+- Electronics & Computing Student | Aspiring AI/ML Engineer
+- I bridge the gap between hardware and high-level intelligence. Currently focused on building efficient machine learning models and exploring the world of embedded AI.
+- 🔭 Current Focus: Deepening my knowledge in Neural Networks and Computer Vision.
+- ⚡ Unique Edge: Combining Electronics background with AI to build smart systems.
+- 🎨 Design: I use Adobe Illustrator to make my tech projects look as good as they function.
+- 📫 Reach me at: jan924741@gmail.com
 
-## 🏆 Achievements & Trophies
+
+## 🧠 My Focus Areas
+- Artificial Intelligence
+- Machine Learning
+- Electronics Engineering
+- Digital Design
+- Strategic Computing
+
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAN-tech404&theme=radical&no-frame=true&column=4" />
+  <a href="https://github.com/JAN-tech404">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JAN-tech404&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="JAN-tech404's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=JAN-tech404&theme=dark&hide_border=true&cache_seconds=86400" alt="JAN-tech404's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=JAN-tech404&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ABDULLAH JAN's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=JAN-tech404&theme=dark&radius=10" alt="JAN-tech404's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
----
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/Abdullah Jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/abd.jan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:jan924741@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages & Tools
 
----
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <a href="https://github.com/JAN-tech404">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JAN-tech404&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/abdullah-jan-b9660a30a/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/923434612743" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jan924741@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JAN-tech404&icon=0&color=1" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
