@@ -36,9 +36,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=JAN-tech404&theme=dark&radius=10" alt="JAN-tech404's Activity Graph" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -61,3 +61,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
